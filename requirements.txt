@@ -1,0 +1,7 @@
+streamlit
+pandas
+openpyxl
+bs4
+undetected-chromedriver
+selenium
+lxml
